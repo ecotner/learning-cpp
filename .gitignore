@@ -1,0 +1,10 @@
+# ignores all files without extensions (mostly binaries)
+*
+!*.*
+!*/
+
+# object files are also binaries; ignore those too
+*.o
+
+# default binaries
+a.out

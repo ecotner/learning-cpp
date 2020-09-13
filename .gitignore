@@ -9,5 +9,8 @@
 # default binaries
 a.out
 
+# pre-compiled header files
+*.gch
+
 # downloaded exercise directory
 learn-program-cplusplus/

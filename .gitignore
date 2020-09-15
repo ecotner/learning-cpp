@@ -17,3 +17,6 @@ learn-program-cplusplus/
 
 # vscode files
 .vscode
+
+# don't ignore makefiles!
+!makefile
